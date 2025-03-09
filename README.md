@@ -10,6 +10,8 @@ Status
 
 last updated 3/9/25
 
+![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO)
+
 
 ----------------------- 
 
