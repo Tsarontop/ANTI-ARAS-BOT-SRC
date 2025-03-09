@@ -14,8 +14,6 @@ last updated 3/9/25
 ----------------------- 
 
 __**How do you run aras on your own pc or server?**__
-**|  |  |  |  |  |  |  |  |  |  |  |  |  |  |**
-**v  v  v  v  v  v  v  v  v  v  v  v  v  v  v**
 
 **The Server Needs Whats On This Image**			          
 
