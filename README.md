@@ -10,7 +10,10 @@ Status
 
 last updated 3/9/25
 
-![GitHub issues](https://img.shields.io/github/issues/Tsarontop/ANTI-ARAS-BOT-SRC/tree/main)
+🛠️ **Issues Opened:** ![GitHub issues](https://img.shields.io/github/issues/Tsarontop/ANTI-ARAS-BOT-SRC)  
+📊 **Commit Activity:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Tsarontop/ANTI-ARAS-BOT-SRC)  
+⏳ **Last Commit:** ![GitHub last commit](https://img.shields.io/github/last-commit/Tsarontop/ANTI-ARAS-BOT-SRC)
+
 
 
 ----------------------- 
