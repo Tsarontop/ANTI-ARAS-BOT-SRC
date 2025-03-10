@@ -1,4 +1,10 @@
 {
     "token": "TOKEN",
-    "client_id": "CLIENT_ID"
+    "client_id": "CLIENT ID",
+    "allowedUserIds": ["USER-1", "USER-2"],
+    "logChannels": {
+        "banLogs": "YOUR CHANNEL ID",
+        "botStatus": "YOUR CHANNEL ID"
+    }
 }
+
