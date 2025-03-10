@@ -1,7 +1,7 @@
 # ANTI-ARAS-BOT-SRC
 -----------------------
 
-                Acounts in DB - 1166 - as of 3/9/25 1:18pm 
+                Acounts in DB - 75 - as of 3/10/25 5:13pm 
 
 
 ----------------------- 
