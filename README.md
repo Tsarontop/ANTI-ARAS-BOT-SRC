@@ -1,4 +1,8 @@
 # ANTI-ARAS-BOT-SRC
+
+SRC MADE BY TSARONTOP
+
+# discord server: https://discord.gg/ranls
 -----------------------
 
                 Acounts in DB - 75 - as of 3/10/25 5:13pm 
@@ -8,7 +12,7 @@
 
 Status 
 
-last updated 3/9/25
+last updated 3/10/25
 
 🛠️ **Issues Opened:** ![GitHub issues](https://img.shields.io/github/issues/Tsarontop/ANTI-ARAS-BOT-SRC)  
 📊 **Commit Activity:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Tsarontop/ANTI-ARAS-BOT-SRC)  
@@ -18,16 +22,3 @@ last updated 3/9/25
 
 ----------------------- 
 
-__**How do you run aras on your own pc or server?**__
-
-**The Server Needs Whats On This Image**			          
-![image](https://github.com/user-attachments/assets/10c568b0-da2e-486b-b3ea-6edcf32279e3)
-
-**Npm Downloads**
------
-[Npm i dotenv]
-
-[Npm i discord.js]
-
-[node index.js]
---------------------------------------------
