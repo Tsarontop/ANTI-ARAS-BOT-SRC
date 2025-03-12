@@ -12,7 +12,7 @@ SRC MADE BY TSARONTOP
 
 Status 
 
-last updated 3/10/25
+last updated 3/12/25
 
 🛠️ **Issues Opened:** ![GitHub issues](https://img.shields.io/github/issues/Tsarontop/ANTI-ARAS-BOT-SRC)  
 📊 **Commit Activity:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Tsarontop/ANTI-ARAS-BOT-SRC)  
